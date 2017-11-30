@@ -5,7 +5,13 @@ Cities In Italy
    :maxdepth: 2
    :caption: Contents:
 
-   /bologna
-   /modena
-   /rome
    /bari
+   /bologna
+   /milan
+   /modena
+   /pompeii
+   /rome
+   /trieste
+   /turin
+   /venice
+   
