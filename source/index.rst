@@ -6,3 +6,6 @@ Cities In Italy
    :caption: Contents:
 
    /bologna
+   /modena
+   /rome
+   /bari
