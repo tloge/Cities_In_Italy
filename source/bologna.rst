@@ -1,5 +1,6 @@
 Bologna
 =======
+Text
 
 .. toctree::
    :maxdepth: 2
