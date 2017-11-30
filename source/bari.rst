@@ -1,5 +1,5 @@
-Template
-========
+Bari
+====
 
 .. toctree::
    :maxdepth: 2

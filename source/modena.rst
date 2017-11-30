@@ -1,5 +1,5 @@
-Template
-========
+Modena
+======
 
 .. toctree::
    :maxdepth: 2
