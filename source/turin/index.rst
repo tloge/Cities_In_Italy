@@ -1,8 +1,8 @@
-Cremona
-=======
+Turin
+=====
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   /cremona
+   /bologna
