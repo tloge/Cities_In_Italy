@@ -29,7 +29,7 @@ Special Facts about Naples
     a completely different vibe than the fashionable Milan and touristy Rome 
     and Venice.
 
-    Traditional Neapolitan cuisine is known for inventing pizza. Neapolitan 
+    Traditional Neapolitan cuisine is known for inventing **pizza**. Neapolitan 
     pizza even has specific rules for the type of flour, tomatoes, cheese 
     and olive oil that can be used to make it authentic. Along with pizza, 
     eggplant parmesan was first served here as well. Naples is also known 

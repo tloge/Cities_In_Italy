@@ -45,7 +45,7 @@ Special Facts about Bassano
 
 ..  image code
 
-Below are the hours of operation to the highly recommended restaurant "Cardellino."
+Below are the hours of operation to the highly recommended restaurant *"Cardellino."*
 
 =========  =================
 Day        Times           
