@@ -1,9 +1,6 @@
 Trieste
 =======
 
-..  image:: trieste.png
-
-
 Background
 ----------
 

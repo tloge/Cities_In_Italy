@@ -11,6 +11,7 @@ This website provides tourist information on 16 cities in Italy. The cities were
    bassano/index
    bologna/index
    capri/index
+   como/index
    cremona/index
    florence/index
    genoa/index

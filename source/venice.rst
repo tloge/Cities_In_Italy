@@ -1,7 +1,7 @@
 Venice
 ========
 
-.. image:: venice.png
+..  image:: venice.png
 
 Background
 ----------
@@ -26,10 +26,6 @@ Top 5 things to do in Venice
 * **Ponte di Rialto** - This bridge spans the impressive Canale Grande and is undoubtedly the most famous and iconic. The detail of the bridge is simply beautiful and its symmetry perfectly frames the Canale Grande.
 
 * **Gallerie dell’Accademia** - This museum hosts a fine collection of pre-19th century art and features works by artists such as Bellini, Canaletto and Titan.
-
-
-..  image code
-
 
 
 .. List Code
