@@ -4,7 +4,7 @@ Bari
 Background
 ----------
 
-Bari is the capital of the Puglia Region in Italy. It is the second largest economic centre of southern Italy after Naples. It has a population of about 1.3 million people. Bari is composed of four urban sections. It is home to the Basilica di San Nicola. This Roman Catholic church was construced in 1197. It took over 100 years to build this beatiful cathedral. During World Ward II, Bari was taken by British troops. Bari was the only European city to experience chemical warfare in World War II. 
+Bari is the capital of the Puglia Region in Italy. It is the second largest economic centre of southern Italy after Naples. It has a population of about 1.3 million people. Bari is composed of four urban sections. It is home to the Basilica di San Nicola. This Roman Catholic church was constructed in 1197. It took over 100 years to build this beautiful cathedral. During World Ward II, Bari was taken by British troops. Bari was the only European city to experience chemical warfare in World War II. 
 
 Location
 --------

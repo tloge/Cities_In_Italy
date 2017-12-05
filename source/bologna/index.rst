@@ -26,7 +26,7 @@ Day        Open       Close
 Monday     9.00       18.00  
 Tuesday    9.00       18.00  
 Wednesday  9.00       18.00   
-Thurday    9.00       18.00   
+Thursday   9.00       18.00   
 Friday     9.00       18.00   
 Saturday   9.00       14.00   
 Sunday     Closed     Closed 
