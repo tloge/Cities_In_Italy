@@ -30,6 +30,6 @@ Top 5 things to do in Venice
 
 .. List Code
 
-This is a link to the offical `Italy Tourism Site <http://www.italia.it/en/home.html>`_.
+This is a link to the official `Italy Tourism Site <http://www.italia.it/en/home.html>`_.
 
 .. Link Code
