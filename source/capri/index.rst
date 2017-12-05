@@ -41,6 +41,7 @@ Special Facts about Capri
 
     * Blue Grotta (cave)
     * Faraglioni (cliff and beach)
-    * Villa San Michele
-    * Villa Jovis
-    * Gardens of Augustus
+    * Villa San Michele (famous author’s villa and art collection)
+    * Villa Jovis (Roman imperial palace ruins)
+    * Gardens of Augustus (botanical gardens with sea views)
+
