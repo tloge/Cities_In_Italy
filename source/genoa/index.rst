@@ -16,14 +16,14 @@ Some of the top attractions of Genoa include the Aquarium of Genoa, the Palazzo 
 
 Aquarium of Genoa Hours
 
-=========  =========  =========
+=========  =======    =======
 Day        Open       Close    
-=========  =========  =========
+=========  =======    =======
 Monday     9:00 AM    8:00 PM  
 Tuesday    9:00 AM    8:00 PM  
 Wednesday  9:00 AM    8:00 PM  
-Thursday    9:00 AM    8:00 PM  
+Thursday   9:00 AM    8:00 PM  
 Friday     9:00 AM    8:00 PM  
 Saturday   8:30 AM    9:00 PM  
-Sunday     8:30 AM   9:00 PM  
-=========  =========  =========
+Sunday     8:30 AM    9:00 PM  
+=========  =======    =======
