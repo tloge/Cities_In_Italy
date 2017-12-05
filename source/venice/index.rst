@@ -27,8 +27,22 @@ Top 5 things to do in Venice
 
 * **Gallerie dell’Accademia** - This museum hosts a fine collection of pre-19th century art and features works by artists such as Bellini, Canaletto and Titan.
 
+How Expensive is Venice?
+------------------------
 
-.. List Code
++----------------+--------------------------------+
+| Category       |  Average Daily Cost Per Person |
++================+================================+
+| Accommodation  |     $58                        | 
++-------------------------------------------------+
+| Food           |     $35                        |
++-------------------------------------------------+
+| Transportation |     $26                        |
++-------------------------------------------------+
+| Entertainment  |     $21                        |
++-------------------------------------------------+
+| Alcohol        |     $14                        |
++-------------------------------------------------+
 
 This is a link to the official `Italy Tourism Site <http://www.italia.it/en/home.html>`_.
 

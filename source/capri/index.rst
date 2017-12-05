@@ -23,7 +23,7 @@ Location
 
 ..  Add location information on city
 
-Special Facts about Capri
+Special Facts About Capri
 -------------------------
 
     Capri has twelve churches, seven museums, and several monuments. The 
