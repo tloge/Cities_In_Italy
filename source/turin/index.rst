@@ -25,6 +25,6 @@ Top 5 Things to do in Turin
 * **Cathedral of San Giovanni Battista** - This cathedral is a fine example of Renaissance architecture that was created in 1491. Inside the cathedral is a myriad of design features including some fantastic frescos and marble statues of famous religious figures.
 
 
-This is a link to the offical `Italy Tourism Site <http://www.italia.it/en/home.html>`_.
+This is a link to the official `Italy Tourism Site <http://www.italia.it/en/home.html>`_.
 
 .. Link Code
