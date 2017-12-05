@@ -5,7 +5,7 @@ Background
 ----------
 
     There are four main things that Bassano is known for: its covered 
-    bridge over the Brenta, the strong grappa liqueur, the military 
+    bridge over the Brenta, the strong grappa liquor, the military 
     history, and the locally produced ceramics.
 
     The most famous landmark in Bassano is the beautiful bridge called the 
