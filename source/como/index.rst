@@ -25,6 +25,6 @@ Top 5 Things to do in Como
 * **Take a boat ride on Lake Como** - There is possibly no better way to explore Lake Como and see the beautiful landscape that encompasses this body of water than to take a boat ride from Como itself. You are sure to see the majesty of Lake Como up close and personal.
 
 
-This is a link to the offical `Italy Tourism Site <http://www.italia.it/en/home.html>`_.
+This is a link to the official `Italy Tourism Site <http://www.italia.it/en/home.html>`_.
 
 .. Link Code
