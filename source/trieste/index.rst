@@ -24,6 +24,6 @@ Top 5 Things to do in Trieste
 * **Grotta Gigante** - The Grotta Gigante is a gigantic cave. It is one of the largest tourist caves in the world. Guided tours are available of this immense natural phenomenon.
 
 
-This is a link to the offical `Italy Tourism Site <http://www.italia.it/en/home.html>`_.
+This is a link to the official `Italy Tourism Site <http://www.italia.it/en/home.html>`_.
 
 .. Link Code
