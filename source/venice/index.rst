@@ -31,7 +31,7 @@ How Expensive is Venice?
 ------------------------
 
 +----------------+--------------------------------+
-| Category       |  Average Daily Cost Per Person |   
+| Category       |  Average Daily Cost Per Person |
 +================+================================+
 | Accommodation  |     $58                        | 
 +-------------------------------------------------+
