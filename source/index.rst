@@ -18,7 +18,6 @@ This website provides tourist information on 16 cities in Italy. The cities were
    milan/index
    modena/index
    naples/index
-   pompeii/index
    rome/index
    trieste/index
    turin/index
