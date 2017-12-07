@@ -45,7 +45,8 @@ Special Facts about Bassano
 
 ..  image code
 
-Below are the hours of operation to the highly recommended restaurant *"Cardellino."*
+Below are the hours of operation to the highly recommended restaurant 
+*"Cardellino."*
 
 =========  =================
 Day        Times           
@@ -62,6 +63,7 @@ Sunday     12-2pm, 6:30-10pm
 ..  Table Code
 
 
-This is a link to the official website of `Cardellino <http://www.ristorantecardellino.it/il-ristorante>`_.
+This is a link to the official website of `Cardellino 
+<http://www.ristorantecardellino.it/il-ristorante>`_.
 
 .. Link Code
