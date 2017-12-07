@@ -140,7 +140,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
     (master_doc, 'CitiesinItaly.tex', 'Cities in Italy Documentation',
-     'Aronow,Backer,Combs,Loge', 'manual'),
+     'Aronow,Becker,Combs,Loge', 'manual'),
 ]
 
 
