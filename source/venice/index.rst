@@ -30,20 +30,15 @@ Top 5 things to do in Venice
 How Expensive is Venice?
 ------------------------
 
-+----------------+--------------------------------+
-| Category       |  Average Daily Cost Per Person |
-+================+================================+
-| Accommodation  |     $58                        | 
-+-------------------------------------------------+
-| Food           |     $35                        |
-+-------------------------------------------------+
-| Transportation |     $26                        |
-+-------------------------------------------------+
-| Entertainment  |     $21                        |
-+-------------------------------------------------+
-| Alcohol        |     $14                        |
-+-------------------------------------------------+
-
+================   ==============================
+ Category           Average Daily Cost Per Person 
+================   ==============================
+ Accommodation       $58                         
+ Food                $35                        
+ Transportation      $26                       
+ Entertainment       $21                        
+ Alcohol             $14                        
+================   ==============================
 This is a link to the official `Italy Tourism Site <http://www.italia.it/en/home.html>`_.
 
 .. Link Code
