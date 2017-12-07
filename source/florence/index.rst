@@ -10,7 +10,7 @@ wealthiest cities. It used to be one of the world leaders in trade and finance,
 and is where the Italian language originated. Florence is considered a world 
 heritage site because of its historic culture, art, and architecture. It was 
 also considered one of the most beautiful cities in the world by Forbes 
-magazine. It is one the the best cities to tour in Italy.
+magazine. It is one the best cities to tour in Italy.
 
 ..  image:: florence.png
 
@@ -25,6 +25,6 @@ important events, including the
 `Pazzi Conspiracy <https://www.britannica.com/event/Pazzi-conspiracy>`_. The 
 Uffizi gallary is one of the largest, most visited, and well known art gallaries
 in the world. It is especially known for its work from the Italian Renaissance.
-The Uffiza gallary is now under renevation in hope of adding to the displaying 
+The Uffiza gallary is now under renovation in hope of adding to the displaying 
 space. The Galleria dell'Accademia is another famous art gallary in Florence 
 best known for Michelangelo's sculpture of David.
