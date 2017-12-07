@@ -17,7 +17,7 @@ Attractions
 -----------
 
 Some of the main tourist attractions in Verona include the Arena di Verona, 
-Castelvecchio, and Torre deo Lamberti. The Arena di Verona is an Roman 
+Castelvecchio, and Torre deo Lamberti. The Arena di Verona is a Roman 
 amphitheatre (looks similar to the Colesium) built in AD 30! The arena used to 
 house around 30,000 people, but for security reasons it now houses around 15,000
 spectators. Today it is known for its large scale opera performances. There are
